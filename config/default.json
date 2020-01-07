@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://admin:admin@devconnecter-pklla.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "7b7c4bc5759afc5b3d88",
+  "githubSecret": "5cb86bb8467aa945415c8f2cc6fb207d5e0ee3b4"
 }
